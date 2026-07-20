@@ -3,6 +3,10 @@
 
 #define LOVE 521
 
+
+
+#define New_test 233
+
 int main() {
     
     while(1){
