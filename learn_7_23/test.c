@@ -8,7 +8,7 @@ int main() {
 
     long long b = 0;
 
-    while(scanf("%lld,%lld",&a,&b)!=EOF)
+    while(scanf("%lld%lld",&a,&b)!=EOF)
 
     {
         if(a==b)
